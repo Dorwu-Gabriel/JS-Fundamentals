@@ -1,2 +1,2 @@
-myvar = "JavaScript is amazing"
-console.log (myvar);
+message = "JavaScript is amazing"
+console.log (message);
